@@ -1,0 +1,15 @@
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/bin/Debug/net7.0/Programming 1 final
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/bin/Debug/net7.0/Programming 1 final.deps.json
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/bin/Debug/net7.0/Programming 1 final.runtimeconfig.json
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/bin/Debug/net7.0/Programming 1 final.dll
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/bin/Debug/net7.0/Programming 1 final.pdb
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/obj/Debug/net7.0/Programming 1 final.csproj.AssemblyReference.cache
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/obj/Debug/net7.0/Programming 1 final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/obj/Debug/net7.0/Programming 1 final.AssemblyInfoInputs.cache
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/obj/Debug/net7.0/Programming 1 final.AssemblyInfo.cs
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/obj/Debug/net7.0/Programming 1 final.csproj.CoreCompileInputs.cache
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/obj/Debug/net7.0/Programming 1 final.dll
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/obj/Debug/net7.0/refint/Programming 1 final.dll
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/obj/Debug/net7.0/Programming 1 final.pdb
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/obj/Debug/net7.0/Programming 1 final.genruntimeconfig.cache
+/Users/josiahrhodes/Desktop/Programming I /Programming 1 final /Programming 1 final/Programming 1 final/obj/Debug/net7.0/ref/Programming 1 final.dll
